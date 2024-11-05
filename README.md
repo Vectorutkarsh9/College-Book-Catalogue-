@@ -1,2 +1,1 @@
-# College-Book-Catalogue-
-Our United College Book catalogue along with front page 
+A front end website that hosts a college book catalogue. 
